@@ -1,0 +1,11 @@
+.header {
+	background-color: black;
+	height: 150px;
+}
+#header-logo{
+	width: 150px; 
+	height: 150px; 
+}
+body {
+  padding-top: 3.5rem;
+}
